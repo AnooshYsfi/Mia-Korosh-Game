@@ -1,0 +1,7 @@
+{
+  "appId": "com.mialand.arena",
+  "appName": "نبرد میالند",
+  "webDir": "www",
+  "backgroundColor": "#11111e",
+  "android": { "allowMixedContent": false }
+}
